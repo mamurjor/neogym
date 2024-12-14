@@ -14,5 +14,8 @@ https://developer.wordpress.org/reference/classes/wp_query/
 
 https://chatgpt.com/
 
+উপরের  ব্লগ  গুলো সুন্দর করে প্রাকটিস করবেন ।
+
+
 
 

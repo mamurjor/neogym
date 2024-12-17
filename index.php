@@ -13,20 +13,20 @@ get_header();
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
 
-        <?php 
-        
+        <?php
+
     //  if(have_posts()):
 
     //             while(have_posts()):the_post();
 
-        
+
 
     //         the_title();
     //         the_content();
 
 
 
-        
+
 
     //                 endwhile;
 
@@ -36,7 +36,7 @@ get_header();
 
 
     $myarguments= array(
-        'post_type' => 'post'
+        'post_type' => 'younus'
     );
 
        $the_query= new WP_Query($myarguments);
@@ -52,11 +52,11 @@ get_header();
        }
 
 
-        
-        
+
+
         ?>
-         
-         
+
+
         </div>
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -308,7 +308,7 @@ get_header();
 
   <!-- end contact section -->
 
-<?php 
+<?php
 
 
 get_footer();

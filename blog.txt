@@ -12,6 +12,12 @@ https://developer.wordpress.org/reference/functions/add_theme_support/
 https://developer.wordpress.org/reference/classes/wp_query/
 
 
+
+https://developer.wordpress.org/themes/functionality/navigation-menus/
+
+
+
+
 https://chatgpt.com/
 
 উপরের  ব্লগ  গুলো সুন্দর করে প্রাকটিস করবেন ।
